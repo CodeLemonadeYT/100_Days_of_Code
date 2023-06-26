@@ -11,7 +11,6 @@ public class SubsetSum {
         for(int i=0; i<val.length; i++){
             t[i][0] = true;
         }
-
         for(int i=1; i<=val.length; i++){
             for(int j=1; j<=W; j++){
                     if(val[i-1]<=j){
@@ -25,8 +24,6 @@ public class SubsetSum {
         return result;
     }
     public static void main(String[] args) {
-
-
         int [] val = {1,4,5,7};
         int W = 19;
 
