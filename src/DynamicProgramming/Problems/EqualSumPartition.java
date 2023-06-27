@@ -18,7 +18,6 @@ public class EqualSumPartition {
             return equalSubsetSum(arr, target);
         }
 
-
     }
     public static void main(String[] args) {
         int [] arr = {1,5,5,1,7};
