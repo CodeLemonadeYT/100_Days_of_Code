@@ -45,3 +45,6 @@ public class PrimeNumber {
         SieveOfEratosthenes(srt, end);
     }
 }
+
+//overall time complexity of this code is O((n-srt+1)*log(log(n))).
+//the auxiliary space complexity of the code is O(n-srt+1).
