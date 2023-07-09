@@ -28,6 +28,5 @@ public class SubsetSum {
         int W = 19;
 
         System.out.println(equalSubsetSum(val, W));
-
     }
 }
