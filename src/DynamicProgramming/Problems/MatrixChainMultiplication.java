@@ -1,4 +1,5 @@
 package DynamicProgramming.Problems;
 
-public class MatrixChainMultiplication {
+public class MatrixChainMultiplication{
+
 }
