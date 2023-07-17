@@ -23,9 +23,7 @@ public class MinimumSubsetSumDifference {
     }
 
     public static void main(String[] args) {
-
         int [] arr = {1,2,7};
         subsetSum(arr);
-
     }
 }
